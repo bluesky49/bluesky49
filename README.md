@@ -1,3 +1,9 @@
+
+
+
+![image](https://user-images.githubusercontent.com/65392759/128427717-348da6bf-43d5-4c9b-ab9a-a9ec886621b8.png)
+
+
 Full-Stack developer with awesome web technical skills, hefty product development experience, and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. My coding journey started in the summer of 2013. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building web products from scratch. Solving problems and finding the best solutions is a creative process that often pushes us to leave our comfort zone and this is when we are growing, aren't we?
 
 My Stacks
