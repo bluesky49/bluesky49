@@ -9,7 +9,7 @@ Full-Stack developer with awesome web technical skills, hefty product developmen
 My Stacks
 
 - 🥇 Frontend Development: Javascript, Typescript, React.js ( Gatsby, Next.js ), Vue.js ( Nuxt.js, Vuetify), Angular ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 )
-- 🥇 Backend Development: Node.js ( Express.js, Nest.js, PHP ( Laravel, CodeIgnitor ), Python ( Django ), Java ( Spring )
+- 🥇 Backend Development: Node.js ( Express.js, Nest.js), .NET, PHP ( Laravel, CodeIgnitor ), Python ( Django ), Java ( Spring )
 - 🥇 Hybrid Mobile App Development: React-Native, Ionic, NativeScript, Flutter, Xamarin
 - 🥈 DevOps: CircleCI, Jenkins, Github Actions, Bitbucket Pipeline, Bitrise
 - 🥉 Test Framework: Jest, Mocha/Chai, Protractor, Jasmine
